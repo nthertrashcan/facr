@@ -1,0 +1,10 @@
+wmplayer
+cmd
+explorer
+MicrosoftEdgeCP
+MicrosoftEdge
+Taskmgr
+sublime_txt
+ApplicationFrameHost
+Music.UI
+SystemSettings

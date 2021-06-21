@@ -1,0 +1,8 @@
+f - C:\Users\Gaurav\Downloads\-aarinfantasy-_Junjou_Romantica_OVA_-C1DF3C0E-.mp4
+f - C:\Users\Gaurav\Downloads\airtel_3g.mp3
+e - chrome.exe
+e - notepad.exe
+e - Rainmeter.exe
+e - vlc.exe
+e - sublime_text.exe
+e - SideSlide.exe
